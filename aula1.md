@@ -50,3 +50,18 @@ O comando a seguir vai configurar o remote:
 ```sh
 git remote add origin https://github.com/thiagok2/aula-git.git
 ```
+
+Uma vez setado, vamos fazer o push
+
+```
+git push origin main
+```
+
+# Em caso de problemas
+
+Caso tenha problemas de permissão, ir para o arquivo
+aula1-config-token.md
+
+
+# Baixar o projeto em outro local
+Clonar o projeto com o conteúdo do arquivo aula1-clone.md
