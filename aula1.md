@@ -2,7 +2,7 @@
  
 ## Criar projeto no VSCode
 
-Criar um projeto. Sugestão aula-git.
+Criar um projeto: Sugestão aula-git. Criar pasta e abrir pasta no VSCode.
 
 ## Instalar extensões no VSCode
  1. Aguardar um pouco
@@ -20,6 +20,9 @@ Perceba que o VSCode já destaca a integração com o GIT.
 
 
 ## Adicionando arquivos - git add
+Criar arquivo, como por exemplo aula1.md. 
+Escrever um texto dentro do aula1.md.
+
 Os arquivos ainda sâo classificados como não rastreáveis(untraked)
 
 Para eles comemeçarem a ser monitorados pelo git eles precisam ir para a área de staging. O comando:
@@ -30,7 +33,7 @@ git add *
 
 O * é um coringa para adicionar tudo
 
-## Persistir mudanças - git commit
+## Persistir mudanças LOCALMENTE - git commit
 
 Para persistir as mudanças, usamos o comando:
 ```sh
